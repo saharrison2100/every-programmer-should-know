@@ -1,0 +1,14 @@
+{
+  "name": "every-programmer-should-know",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Renders this repository's Markdown docs as a browsable site",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "marked": "^14.1.2"
+  }
+}
